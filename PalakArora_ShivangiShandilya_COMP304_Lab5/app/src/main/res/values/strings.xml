@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">PalakArora_ShivangiShandilya_COMP304_Lab5</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="old_buildings">Old Buildings</string>
+    <string name="museums">Museums</string>
+    <string name="stadiums">Stadiums</string>
+    <string name="attractions">Attractions</string>
+</resources>
